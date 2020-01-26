@@ -1,7 +1,7 @@
-from src.Models.DSOD import DSOD
-from src.Functions.Loss import MultiboxLoss
-from src.Functions.BBox import *
-from src.Functions.Generators import *
+from Models.DSOD import DSOD
+from Functions.Loss import MultiboxLoss
+from Functions.BBox import *
+from Functions.Generators import *
 
 import pickle as pk
 import keras
